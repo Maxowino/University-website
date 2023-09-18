@@ -1,0 +1,22 @@
+body
+{
+    background-color:azure ;
+    font-family: sans-serif;
+    cursor: pointer;
+    
+
+}
+button
+{
+    color:azure;
+    font-family: sans-serif;
+    background-color: dodgerblue;
+    
+
+}
+aside
+{
+    font-style: italic;
+
+}
+
